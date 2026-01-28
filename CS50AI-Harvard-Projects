@@ -1,0 +1,12 @@
+├── 0-Search/
+├── 1-Knowledge/
+├── ...
+├── 5-Traffic/
+│   ├── traffic.py
+│   └── README.md (Relatório de experimentos)
+├── 6a-Parser/
+│   ├── parser.py
+│   └── sentences/
+└── 6b-Attention/
+    ├── mask.py
+    └── sample_visualizations/ (Coloque alguns .png gerados)
